@@ -4,7 +4,7 @@ date: '2025-06-08'
 spoiler: No one cares what OS you use more than Linux booters
 ---
 
-	Right now, the trend of migrating to Linux is so high. I can see it coming after LLMs became super useful. No more 1000 pages to install Arch. I really love it. For developers who live in the terminal for 10 hours per day, I don't want to spend that time watching WSL cry about compatibility. File watching never works right in WSL. Randomly using 4GB of RAM while doing nothing? File access between Windows and WSL has the speed of a grandma walking to the store with her cane.
+Right now, the trend of migrating to Linux is so high. I can see it coming after LLMs became super useful. No more 1000 pages to install Arch. I really love it. For developers who live in the terminal for 10 hours per day, I don't want to spend that time watching WSL cry about compatibility. File watching never works right in WSL. Randomly using 4GB of RAM while doing nothing? File access between Windows and WSL has the speed of a grandma walking to the store with her cane.
 
 Unless you're using c#/cpp, doing game dev or LLM research, it's practical to stick with Windows. I still jealous how good c family debugger that Windows got. On the other hand, Linux folks sometimes claim Mac user == Soy Dev. That makes me have a question.
 
